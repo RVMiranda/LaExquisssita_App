@@ -1,0 +1,6 @@
+# Configuración pública de la app cliente. Copiar las entradas a local.properties
+# (ignorado por Git) o definir variables de entorno con los mismos nombres.
+SUPABASE_URL=https://PROJECT_REF.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_REEMPLAZAR
+GOOGLE_WEB_CLIENT_ID=REEMPLAZAR.apps.googleusercontent.com
+# Nunca añadir service_role, sb_secret ni el Client Secret de Google a la app.

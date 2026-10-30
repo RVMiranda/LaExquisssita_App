@@ -1,0 +1,32 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+/build-data-check.log
+/supabase/.temp/
+
+# User-specific Studio configs
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+
+# Packaging / Build binaries
+*.apk
+*.aab
+
+# Branding scratch
+/branding/la-exquisssita/work/
+
+# Firebase client config
+/app/google-services.json
